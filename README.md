@@ -1,7 +1,5 @@
 * This contains a summary of a journal paper: Jon, J.-E., & **Park, K***. (2023). Korean public’s attitude toward asylum seekers: Applying integrated threat theory and contact theory. Journal of Diaspora Studies, 17(1), 145-195. (https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002966352)
 
-* Python code for data anlysis is also presented. 
-
 ### Abstract 
 
 **1. Objective**
